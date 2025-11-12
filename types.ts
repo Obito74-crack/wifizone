@@ -1,4 +1,3 @@
-
 export interface TariffPlan {
   id: number;
   name: string;
@@ -6,6 +5,7 @@ export interface TariffPlan {
   duration: string;
   speed: string;
   data?: string;
+  users: number;
   color: string;
 }
 
