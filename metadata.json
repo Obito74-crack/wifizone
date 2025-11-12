@@ -1,0 +1,5 @@
+{
+  "name": "Portail Hotspot WiFi",
+  "description": "Une application web pour un portail captif de hotspot WiFi, permettant aux utilisateurs d'acheter des forfaits internet via mobile money et de se connecter avec des identifiants existants. L'application est conçue pour s'interfacer avec un serveur MikroTik.",
+  "requestFramePermissions": []
+}
